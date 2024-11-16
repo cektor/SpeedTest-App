@@ -39,7 +39,7 @@ pip install requests
 
 
 ----------------------------------
-https://fatihonder.org.tr/python-ile-mb-gb-tb-cevirici-yapimi/
+https://fatihonder.org.tr/internet-speedtest-app-yapimi/
 
 # Installation
 Install SpeedTest-App
