@@ -11,7 +11,8 @@ Python
 ```bash
 sudo apt install python3 -y
 ```
-Required Libraries
+----------Required Libraries----------
+
 Tkinter
 ```bash
 sudo apt-get install python3-tk
