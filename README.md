@@ -91,7 +91,7 @@ https://github.com/cektor/SpeedTest-App/releases/tag/1.0
 
 # Linux Screenshot
 
-![app](linux_screenshot.png) 
+![app](speed-linux.png) 
 
 # Windows Screenshot
 
